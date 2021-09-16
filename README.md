@@ -1,7 +1,7 @@
 # KittibinTobag_generation
 This code provides the following features:
 * ros integration with pointpillars model in c++ 
-* convert kitti bin files for a sequence of frames by publishing it on ros topic passed as argument
+* convert kitti bin files for a sequence of frames by posting them to it a ros topic, with name passed as argument
 
 cmd fields:
 ./bin_gen [0] [1] [2] [3], where:
